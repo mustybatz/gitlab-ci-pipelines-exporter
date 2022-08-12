@@ -255,7 +255,7 @@ server:
       secret_token: <a_secret_token>
 ```
 
-A complete example is available here: [examples/webhooks](examples/webhooks/README.md). You can also refer to the [configuration syntax](docs/configuration_syntax.md) for me information.
+A complete example is available here: [examples/webhooks](examples/webhooks/README.md). You can also refer to the [configuration syntax](docs/configuration_syntax.md) for more information.
 
 ## Usage
 
